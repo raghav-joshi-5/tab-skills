@@ -3,7 +3,7 @@ import { Itab } from '../module/tab';
 export const tabs: Array<Itab> = [
   {
     tabtitle: 'HTML',
-    tabContent: `<p class="alert alert-warning"><strong>HTML</strong> Lorem ipsum dolor, sit amet consectetur
+    tabContent: `<p class="alert alert-info"><strong>HTML</strong> Lorem ipsum dolor, sit amet consectetur
               adipisicing elit. Laudantium dolor unde architecto, animi tenetur
               molestias explicabo iste iure omnis ratione quibusdam numquam, culpa
               beatae quidem!</p>`,
@@ -11,7 +11,7 @@ export const tabs: Array<Itab> = [
   },
   {
     tabtitle: 'CSS',
-    tabContent: `<p class="alert alert-warning"><strong>css</strong> Lorem ipsum dolor, sit amet consectetur
+    tabContent: `<p class="alert alert-info"><strong>css</strong> Lorem ipsum dolor, sit amet consectetur
               adipisicing elit. Laudantium dolor unde architecto, animi tenetur
               molestias explicabo iste iure omnis ratione quibusdam numquam, culpa
               beatae quidem!</p>`,
@@ -19,7 +19,7 @@ export const tabs: Array<Itab> = [
   },
   {
     tabtitle: 'JAVASCRIPT',
-    tabContent: `<p class="alert alert-warning"><strong>javascript</strong> Lorem ipsum dolor, sit amet consectetur
+    tabContent: `<p class="alert alert-info"><strong>javascript</strong> Lorem ipsum dolor, sit amet consectetur
               adipisicing elit. Laudantium dolor unde architecto, animi tenetur
               molestias explicabo iste iure omnis ratione quibusdam numquam, culpa
               beatae quidem!</p>`,
@@ -27,7 +27,7 @@ export const tabs: Array<Itab> = [
   },
   {
     tabtitle: 'ANGULAR 14',
-    tabContent: `<p class="alert alert-warning"><strong>angular 14</strong> Lorem ipsum dolor, sit amet consectetur
+    tabContent: `<p class="alert alert-info"><strong>angular 14</strong> Lorem ipsum dolor, sit amet consectetur
               adipisicing elit. Laudantium dolor unde architecto, animi tenetur
               molestias explicabo iste iure omnis ratione quibusdam numquam, culpa
               beatae quidem!</p>`,
